@@ -1,5 +1,5 @@
 # Information
-**#AI Course CS106.L21.KHCL**.
+**AI Course CS106.L21.KHCL**.
 
 # Members
 | Full Name                                         | MSSV     | Position|
